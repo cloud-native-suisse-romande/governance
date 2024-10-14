@@ -1,8 +1,5 @@
 # Cloud Native Suisse Romande - Association Charter
 
-> **NOTE:** This charter is a work-in-progress document which is yet to be ratified at the first meeting.
-> The meeting is planned on October 31, 2024
-
 ## Name and Location
 
 The association operates under the name “Cloud Native Suisse Romande”.
@@ -205,4 +202,4 @@ The distribution of the Association’s assets among its members is excluded.
 
 ## ​Entry into force of the charter
 
-This Charter was adopted at the Annual General Meeting on `TODO`.   
+The charter was confirmed at the Founding Meeting of the association on 14 October, 2024.
