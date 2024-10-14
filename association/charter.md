@@ -4,7 +4,7 @@
 
 The association (_The Association_) operates under the name “Cloud Native Suisse Romande”.
 “Cloud Native Romandy🇨🇭” can be used as an alternative name for communications and materials in English.
-The Association is registered on 14.10.2024 in the city of Neuchatel and operates in accordance with article 60 of the Civil Code of Switzerland.
+The Association is registered on 14.10.2024 in the city of Neuchâtel and operates in accordance with article 60 of the Civil Code of Switzerland.
 
 ## Goal
 
