@@ -6,7 +6,7 @@
 ## Name and Location
 
 The association operates under the name “Cloud Native Suisse Romande”.
-Under paragraph, the Association is registered in the city of Neuchatel and operates in accordance with 60 of the Civil Code of Switzerland.
+Under paragraph, the Association is registered in the city of Neuchatel and operates in accordance with article 60 of the Civil Code of Switzerland.
 
 ## Goal
 
