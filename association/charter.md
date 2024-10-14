@@ -158,7 +158,7 @@ The members of the Interim Association Council are:
 
 ### Treasurer
 
-The Treasurer is an Association Council member who conducts the association's financial operations.
+The Treasurer is the Association member who conducts the association's financial operations.
 They are authorized to open a bank account and a credit card in the association’s name and handle payments, reimbursements, and donations.
 
 The Association Council elects and changes the Treasurer.
