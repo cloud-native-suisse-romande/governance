@@ -9,6 +9,10 @@ The Association is registered on 14.10.2024 in the city of Neuchâtel and operat
 
 The association aims to connect end users, contributors, and maintainers of the projects in the cloud native computing (CNC) space, within Suisse Romande (French-speaking regions of Switzerland) and neighboring locations. 
 
+## Members
+
+See the [Association Members page](./association/members.md) for the list of individual and organization members.
+
 ## Governance Documents
 
 - [Association Charter](./association/charter.md)
