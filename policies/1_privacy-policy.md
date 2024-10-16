@@ -63,3 +63,13 @@ When you visit one of our pages equipped with a YouTube plug-in, a connection to
 The YouTube server is informed which of our pages you have visited.
 
 Further information on how user data is handled can be found in YouTube’s privacy policy at: https://www.google.de/intl/de/policies/privacy
+
+## Credits
+
+This policy is an adapted version of the [KCD Zurich Data Privacy Policy](https://cloudnativezurich.ch/data-privacy/), used with the permission.
+We thank the _Verein cloudnative.zürich_ for sharing the template.
+
+## Version History
+
+This document is stored on GitHub, and the versions are tracked in the commit history.
+Changes to the policy are made in accordance with the Association's [Governance Charter](../association/charter.md).

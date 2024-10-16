@@ -17,4 +17,4 @@ See the [Association Members page](./association/members.md) for the list of ind
 
 - [Association Charter](./association/charter.md)
 - [Code of Conduct](./bylaws/CODE_OF_CONDUCT.md)
-
+- [Privacy Policy](./policies/1_privacy-policy.md)
