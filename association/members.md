@@ -22,4 +22,4 @@ Every active contributor to the Cloud Native Computing ecosystem in the region i
 There is no membership fee, the membership is based on the contributions to the ecosystem and participation in the local community.
 
 * [Membership Information in the charter](./charter.md#membership)
-* [Membership Process](../bylaws/membership-process.md)
+* [Membership Process](../policies/2_membership-process.md)

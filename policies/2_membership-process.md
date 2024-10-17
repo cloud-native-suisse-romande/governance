@@ -24,3 +24,4 @@ The legal entities should contact the Association Council to apply for or to wit
 ## Version History
 
 This document is stored on GitHub, and the versions are tracked in the commit history.
+Changes to the policy are made in accordance with the Association's [Governance Charter](../association/charter.md).
