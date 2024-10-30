@@ -48,7 +48,7 @@ In the case of longer retention periods due to legal and other obligations to wh
 
 ### Payment Services
 
-This websites of the association may use external payment service providers
+The websites of the association may use external payment service providers
 through whose platforms users and we can carry out payment transactions.
 For example, via: Visa, Mastercard, Paypal, TWINT, etc.
 
@@ -57,7 +57,7 @@ In addition, we use external payment service providers on the basis of our legit
 
 ### Privacy Policy for YouTube
 
-This websites of the association may use plug-ins from the YouTube site operated by Google.
+The websites of the association may use plug-ins from the YouTube site operated by Google.
 The site is operated by YouTube, LLC, 901 Cherry Ave., San Bruno, CA 94066, USA.
 When you visit one of our pages equipped with a YouTube plug-in, a connection to the YouTube servers is established.
 The YouTube server is informed which of our pages you have visited.
