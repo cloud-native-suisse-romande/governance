@@ -148,11 +148,11 @@ Before that, the Interim Association Council can add additional members to the c
 
 The members of the Interim Association Council are:
 
-* Nuno do Carmo (Lausanne)  
-* Oleg Nenashev (Neuchatel)  
-* Raphaël Pinson (Montreaux)  
-* Ricardo Rocha (Geneva)  
-* Thierry Predhom (Lausanne)
+* Nuno do Carmo (VD)
+* Oleg Nenashev (NE)
+* Raphaël Pinson (VD)
+* Ricardo Rocha (GE)
+* Thierry Predhom (VD)
 
 ### Treasurer
 
