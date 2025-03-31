@@ -3,8 +3,10 @@
 The responsible body within the meaning of data protection laws,
 in particular the EU General Data Protection Regulation (GDPR) and nFADP, is:
 
+```
 Association "Cloud Native Suisse Romande"
-Neuchatel
+CH-2000 Neuchâtel
+```
 
 ## General information
 
