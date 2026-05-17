@@ -49,3 +49,7 @@ Neither party is required to provide speakers, send representatives, or host eve
 
 Currently, there is no formal Community Partner agreement to be signed between the parties.
 Either party can terminate the Community Partner status at any time.
+
+## References
+
+- [List of our Community Partners](../association/partners.md)
