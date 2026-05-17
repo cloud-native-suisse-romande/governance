@@ -1,6 +1,6 @@
 # Cloud Native Suisse Romande - Association Members
 
-This page lists individual and organization members who have joined the association.
+This page lists individuals who have joined the association as members with voting rights.
 
 ## Individual Members
 
@@ -11,11 +11,6 @@ This page lists individual and organization members who have joined the associat
 * [Raphaël Pinson](https://github.com/raphink)
 * [Thierry Predhom](https://github.com/tpredhom)
 
-
-## Organization Members
-
-Coming Soon!
-
 ## Join the Association
 
 Every active contributor to the Cloud Native Computing ecosystem in the region is welcome to join the association.
@@ -23,3 +18,11 @@ There is no membership fee, the membership is based on the contributions to the 
 
 * [Membership Information in the charter](./charter.md#membership)
 * [Membership Process](../policies/2_membership-process.md)
+
+## Organization Members
+
+We welcome local non-profit organizations to join as [community partners](./partners.md).
+Organizations can also [sponsor](./partners.md#event-sponsorships) some of our community events,
+including KCD Suisse Romande.
+
+No organization memberships are planned so far in the association.
