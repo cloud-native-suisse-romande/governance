@@ -22,7 +22,7 @@ There is no membership fee, the membership is based on the contributions to the 
 ## Organization Members
 
 We welcome local non-profit organizations to join as [community partners](./partners.md).
-Organizations can also [sponsor](./partners.md#event-sponsorships) some of our community events,
-including KCD Suisse Romande.
+Organizations can also [sponsor](./sponsors.md) some of our community events,
+including the KCD Suisse Romande conference.
 
 No organization memberships are planned so far in the association.

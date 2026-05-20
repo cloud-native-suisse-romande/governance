@@ -22,14 +22,9 @@ The following organizations are our community partners:
 
 Interested in joining as a community partner? See the program details and expectations on the [Community Partner policy](../policies/3_community-partners.md).
 
-## Event Sponsorships
+## Partnerships with Commercial Organizations
 
-For some of our [events](https://cloud-native-romandy.ch/events/),
-including Kubernetes Community Days (KCD) Suisse Romande,
-we also invite local commercial organizations to join as event sponsors.
-See the event pages for more info.
-
-- [KCD Suisse Romande 2025 Sponsors](https://github.com/cloud-native-suisse-romande/kcd-suisse-romande-2025/blob/main/sponsors.md)
-- [KCD Suisse Romande 2026 Sponsors](https://github.com/cloud-native-suisse-romande/kcd-suisse-romande-2026/blob/main/sponsors.md)
-
-
+At the moment, there is no established partnership program for commercial organizations.
+However, we have [event sponsorships](./sponsors.md) and accept [donations](./donations.md) from
+commercial organizations.
+We are also open to other ideas that help to strengthen the local cloud native community and the ecosystem..
