@@ -27,4 +27,4 @@ Interested in joining as a community partner? See the program details and expect
 At the moment, there is no established partnership program for commercial organizations.
 However, we have [event sponsorships](./sponsors.md) and accept [donations](./donations.md) from
 commercial organizations.
-We are also open to other ideas that help to strengthen the local cloud native community and the ecosystem..
+We are also open to other ideas that help to strengthen the local cloud native community and the ecosystem.
