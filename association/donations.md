@@ -1,16 +1,17 @@
 # Donations
 
 Donations are always appreciated!
-  
-The association does not have membership fees and, to operate, we use 
-voluntary donations from association members and supporters.
-Once we have events like [KCD](https://cloud-native-romandy.ch/events/kcd/), 
-we will use all profits to support the association and events.
+
+## How we use your donations
+
+The association does not have membership fees.
+To operate, we use [event sponsorships](./sponsors.md), voluntary donations from association members and supporters.
+We will use all additional donations to support the association operations and local events in Suisse Romande.
 
 ## How to donate
 
 Currently you can make a donation by a direct bank transfer.
-In the future, we plan to have a stripe account and GitHub Sponsoors, too.
+In the future, we plan to have a stripe account and GitHub Sponsors, too.
                                
 ### Bank Account
 

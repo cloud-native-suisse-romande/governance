@@ -16,5 +16,12 @@ See the [Association Members page](./association/members.md) for the list of ind
 ## Governance Documents
 
 - [Association Charter](./association/charter.md)
+- [Members](./association/members.md)
+- [Community Partners](./association/partners.md)
 - [Code of Conduct](./bylaws/CODE_OF_CONDUCT.md)
 - [Privacy Policy](./policies/1_privacy-policy.md)
+
+## Additional information
+
+- [Event Sponsorships](./association/sponsors.md)
+- [Donations](./association/donations.md)
