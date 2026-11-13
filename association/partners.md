@@ -19,6 +19,7 @@ The following organizations are our community partners:
 * [Silicon Chalet](https://www.meetup.com/silicon-chalet/)
 * [Bern Cloud Native Community](https://cloudnativeday.ch/)
 * [Cloud Native Zurich](https://cloudnativezurich.ch/)
+* [Powercoders](https://powercoders.org/)
 
 Interested in joining as a community partner? See the program details and expectations on the [Community Partner policy](../policies/3_community-partners.md).
 
